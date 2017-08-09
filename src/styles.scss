@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+$error-color: #EF5350;
+$success-color: #66BB6A;
+$placeholder-color: #AAAAAA;
+$main-color: #7ACDCF;
+$main-text-color: #2C314F;
+html,
+body {
+  font-family: 'Kanit', sans-serif;
+  color: $main-text-color;
+}
